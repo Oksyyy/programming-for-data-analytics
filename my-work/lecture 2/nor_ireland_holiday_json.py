@@ -7,4 +7,4 @@ import requests
 url = "https://www.gov.uk/bank-holidays.json"
 response = requests.get(url)
 data = response.json()
-print(data["northern-ireland"]["events"][0])
+print(data["northern-ireland"]["events"][0]) # 0 - index points to the first event in Northern Ireland
