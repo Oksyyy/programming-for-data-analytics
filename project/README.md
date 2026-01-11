@@ -40,7 +40,7 @@ This project analyses historical wind speed data from three Irish weather statio
   Installation instructions: https://jupyter.org/install
 
 ### Python Packages
-All required packages are imported within each respective notebook: 
+
 - `pandas`: enables data handling, filtering, analysis.
 - `numpy`:  numerical operations and converting data into array.
 - `matplotlib.pyplot`: creating charts and visualisations.
